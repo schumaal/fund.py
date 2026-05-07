@@ -3,3 +3,11 @@ pillow
 numpy
 opencv-python-headless
 ultralytics
+
+streamlit
+ultralytics
+opencv-python-headless
+pillow
+numpy
+torch
+torchvision
